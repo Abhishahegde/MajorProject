@@ -1,0 +1,795 @@
+Cause,Allergy_type,CATEGORY,severity,Symptoms ,Age
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),61
+Mold (organism),Mold Allergy,environment,1,Sneezing,24
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,70
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",30
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,33
+Aspirin,Drug Allergy,medication,0,NaN,12
+Cow's milk (substance),Milk Allergy,food,3,"Finding of vomiting (finding), Allergic angioedema (disorder)",31
+Soya bean (substance),Soy Allergy,food,3,"Finding of vomiting (finding), Diarrhea (finding)",62
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Eruption of skin (disorder)",11
+Cow's milk (substance),Milk Allergy,food,0,NaN,39
+Mold (organism),Mold Allergy,environment,0,NaN,47
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,11
+Animal dander (substance),Pet Allergy,environment,0,NaN,73
+Shellfish (substance),Fish Allergy,food,3,"Eruption of skin (disorder), Dyspnea (finding)",69
+Mold (organism),Mold Allergy,environment,1,Nose running,30
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,42
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",67
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,31
+Aspirin,Drug Allergy,medication,3,Abdominal pain (finding),58
+Cow's milk (substance),Milk Allergy,food,1,Diarrhea (finding),68
+Aspirin,Drug Allergy,medication,0,NaN,51
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Nausea (finding)",69
+cefdinir,Drug Allergy,medication,3,Wheal (finding),24
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,71
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,71
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Wheal (finding)",56
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,71
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,60
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,64
+Wheat (substance),Wheat Allergy,food,0,NaN,73
+Shellfish (substance),Fish Allergy,food,3,"Eruption of skin (disorder), Dyspnea (finding)",12
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Eruption of skin (disorder)",60
+Mold (organism),Mold Allergy,environment,1,"Wheezing, Nose running",16
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,30
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",48
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,27
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Nausea (finding)",13
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Rhinoconjunctivitis (disorder)",69
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",23
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,18
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,62
+Animal dander (substance),Pet Allergy,environment,1,Eruption of skin (disorder),11
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,69
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,80
+Soya bean (substance),Soy Allergy,food,3,"Finding of vomiting (finding), Diarrhea (finding)",53
+Wheat (substance),Wheat Allergy,food,0,NaN,17
+Tree nut (substance),Nut Allergy,food,3,"Cough (finding), Wheal (finding)",56
+Latex (substance),Latex Allergy,environment,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",44
+Mold (organism),Mold Allergy,environment,0,NaN,45
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,59
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",13
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,11
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),15
+Mold (organism),Mold Allergy,environment,0,NaN,63
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,13
+Animal dander (substance),Pet Allergy,environment,1,"Wheal (finding), Eruption of skin (disorder)",63
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,72
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,27
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),53
+Mold (organism),Mold Allergy,environment,0,NaN,43
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,71
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",23
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,57
+Cow's milk (substance),Milk Allergy,food,1,"Diarrhea (finding), Wheal (finding)",24
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Dyspnea (finding)",71
+Lisinopril,Drug Allergy,medication,0,NaN,49
+Ibuprofen,Drug Allergy,medication,3,Rhinoconjunctivitis (disorder),62
+Mold (organism),Mold Allergy,environment,0,NaN,33
+Aspirin,Drug Allergy,medication,5,"Anaphylaxis (disorder), Wheal (finding)",35
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",69
+Mold (organism),Mold Allergy,environment,0,NaN,50
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Eruption of skin (disorder)",38
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",24
+Tree nut (substance),Nut Allergy,food,3,"Wheal (finding), Dyspnea (finding)",54
+Shellfish (substance),Fish Allergy,food,1,"Dyspnea (finding), Cough (finding)",74
+Aspirin,Drug Allergy,medication,0,NaN,80
+Mold (organism),Mold Allergy,environment,1,"Wheezing, Nose running",18
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Dyspnea (finding)",10
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,17
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,72
+Penicillin V,Drug Allergy,medication,1,"Eruption of skin (disorder), Dyspnea (finding)",20
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,17
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",44
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,44
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,42
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",14
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,50
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,37
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),16
+Shellfish (substance),Fish Allergy,food,3,"Nausea (finding), Eruption of skin (disorder)",21
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Finding of vomiting (finding)",43
+Mold (organism),Mold Allergy,environment,0,NaN,42
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,57
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",32
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,71
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,46
+Wheat (substance),Wheat Allergy,food,0,NaN,53
+Fish (substance),Fish Allergy,food,3,Dyspnea (finding),44
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",74
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),56
+Bee venom (substance),Insect Allergy,environment,3,Eruption of skin (disorder),12
+Mold (organism),Mold Allergy,environment,1,Nose running,10
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,14
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),23
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,36
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,18
+Aspirin,Drug Allergy,medication,3,Abdominal pain (finding),24
+Tree nut (substance),Nut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",51
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",60
+Penicillin V,Drug Allergy,medication,1,"Eruption of skin (disorder), Allergic angioedema (disorder)",72
+Shellfish (substance),Fish Allergy,food,3,"Nausea (finding), Cough (finding)",61
+Mold (organism),Mold Allergy,environment,0,NaN,13
+Bee venom (substance),Insect Allergy,environment,0,NaN,32
+Mold (organism),Mold Allergy,environment,1,"Sneezing, Allergic skin rash",24
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,52
+Animal dander (substance),Pet Allergy,environment,1,"Wheal (finding), Eruption of skin (disorder)",38
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,45
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,22
+Soya bean (substance),Soy Allergy,food,1,Diarrhea (finding),41
+Tree nut (substance),Nut Allergy,food,3,"Wheal (finding), Dyspnea (finding)",80
+Bee venom (substance),Insect Allergy,environment,0,NaN,68
+Mold (organism),Mold Allergy,environment,0,NaN,37
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,75
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",51
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,54
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,71
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Wheezing (finding)",66
+Latex (substance),Latex Allergy,environment,3,"Allergic angioedema (disorder), Wheal (finding)",15
+Mold (organism),Mold Allergy,environment,1,"Sneezing, Nose running",37
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,37
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",53
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,39
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,71
+Latex (substance),Latex Allergy,environment,3,"Dyspnea (finding), Wheal (finding)",71
+Mold (organism),Mold Allergy,environment,1,"Sneezing, Nose running",10
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,36
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",71
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,12
+Cow's milk (substance),Milk Allergy,food,1,"Diarrhea (finding), Wheal (finding)",79
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,36
+Wheat (substance),Wheat Allergy,food,0,NaN,18
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Nausea (finding)",71
+Latex (substance),Latex Allergy,environment,0,NaN,46
+Mold (organism),Mold Allergy,environment,0,NaN,60
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,53
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),33
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,68
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,41
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Eruption of skin (disorder)",61
+Peanut (substance),Peanut Allergy,food,1,"Dyspnea (finding), Wheezing (finding)",71
+Mold (organism),Mold Allergy,environment,0,NaN,67
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,61
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",21
+Soya bean (substance),Soy Allergy,food,3,Finding of vomiting (finding),48
+Eggs (edible) (substance),Egg Allergy,food,3,Allergic angioedema (disorder),11
+Wheat (substance),Wheat Allergy,food,0,NaN,12
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",65
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),68
+Mold (organism),Mold Allergy,environment,0,NaN,11
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",11
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,63
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,10
+Lisinopril,Drug Allergy,medication,0,NaN,28
+Bee venom (substance),Insect Allergy,environment,3,Eruption of skin (disorder),11
+Mold (organism),Mold Allergy,environment,0,NaN,62
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",53
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,41
+Cow's milk (substance),Milk Allergy,food,1,Wheezing (finding),79
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,41
+Mold (organism),Mold Allergy,environment,1,"Sneezing, Nose running",77
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,64
+Animal dander (substance),Pet Allergy,environment,0,NaN,65
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,26
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,47
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,33
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Wheal (finding)",78
+Bee venom (substance),Insect Allergy,environment,3,Eruption of skin (disorder),79
+Mold (organism),Mold Allergy,environment,0,NaN,20
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,25
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",68
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,79
+Lisinopril,Drug Allergy,medication,3,"Cough (finding), Drug-induced hyperkalemia (disorder)",12
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",29
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",68
+Peanut (substance),Peanut Allergy,food,5,"Anaphylaxis (disorder), Wheal (finding)",45
+Wheat (substance),Wheat Allergy,food,0,NaN,28
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,76
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,28
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",29
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,80
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,61
+Soya bean (substance),Soy Allergy,food,3,Finding of vomiting (finding),42
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Finding of vomiting (finding)",49
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),48
+cefdinir,Drug Allergy,medication,3,Eruption of skin (disorder),10
+Aspirin,Drug Allergy,medication,0,NaN,20
+Mold (organism),Mold Allergy,environment,0,NaN,66
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,59
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),32
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,40
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,51
+Latex (substance),Latex Allergy,environment,3,"Itching (finding), Wheal (finding)",16
+Mold (organism),Mold Allergy,environment,1,Wheezing,25
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,69
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",11
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,10
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,57
+Cow's milk (substance),Milk Allergy,food,0,NaN,21
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",78
+Bee venom (substance),Insect Allergy,environment,0,NaN,46
+Mold (organism),Mold Allergy,environment,0,NaN,41
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,18
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",28
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,57
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,12
+Aspirin,Drug Allergy,medication,0,NaN,29
+Peanut (substance),Peanut Allergy,food,3,"Allergic angioedema (disorder), Cough (finding)",33
+Mold (organism),Mold Allergy,environment,1,"Sneezing, Allergic skin rash",63
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,42
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),33
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,45
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,47
+Wheat (substance),Wheat Allergy,food,0,NaN,34
+Tree nut (substance),Nut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",27
+Latex (substance),Latex Allergy,environment,0,NaN,75
+Bee venom (substance),Insect Allergy,environment,0,NaN,63
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,44
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,70
+Animal dander (substance),Pet Allergy,environment,1,Eruption of skin (disorder),50
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,42
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,77
+Cow's milk (substance),Milk Allergy,food,5,"Anaphylaxis (disorder), Diarrhea (finding)",42
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",23
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Eruption of skin (disorder)",30
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),57
+Mold (organism),Mold Allergy,environment,0,NaN,29
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,17
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",16
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,76
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,26
+Cow's milk (substance),Milk Allergy,food,3,"Allergic angioedema (disorder), Wheal (finding)",42
+Wheat (substance),Wheat Allergy,food,0,NaN,57
+Bee venom (substance),Insect Allergy,environment,3,Eruption of skin (disorder),68
+Mold (organism),Mold Allergy,environment,1,Wheezing,31
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,39
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),47
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,60
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,63
+Fish (substance),Fish Allergy,food,1,Eruption of skin (disorder),17
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),36
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,36
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,30
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",39
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,37
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,73
+Tree nut (substance),Nut Allergy,food,3,"Wheal (finding), Dyspnea (finding)",78
+Penicillin V,Drug Allergy,medication,1,"Eruption of skin (disorder), Wheal (finding)",70
+Peanut (substance),Peanut Allergy,food,0,NaN,57
+Latex (substance),Latex Allergy,environment,0,NaN,28
+Mold (organism),Mold Allergy,environment,0,NaN,13
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,44
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",73
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,58
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,26
+Cow's milk (substance),Milk Allergy,food,1,Wheal (finding),53
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,39
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",55
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Rhinoconjunctivitis (disorder)",15
+Tree nut (substance),Nut Allergy,food,3,"Wheal (finding), Dyspnea (finding)",46
+Mold (organism),Mold Allergy,environment,0,NaN,33
+Bee venom (substance),Insect Allergy,environment,0,NaN,55
+Mold (organism),Mold Allergy,environment,0,NaN,62
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,69
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",72
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,41
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,42
+Soya bean (substance),Soy Allergy,food,3,Finding of vomiting (finding),76
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Dyspnea (finding)",27
+Peanut (substance),Peanut Allergy,food,3,"Allergic angioedema (disorder), Eruption of skin (disorder)",34
+Mold (organism),Mold Allergy,environment,0,NaN,63
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,67
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",76
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,55
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,33
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Eruption of skin (disorder)",41
+Mold (organism),Mold Allergy,environment,1,Sneezing,56
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,32
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",75
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,36
+Penicillin V,Drug Allergy,medication,3,"Rhinoconjunctivitis (disorder), Dyspnea (finding)",11
+Mold (organism),Mold Allergy,environment,0,NaN,26
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),42
+Bee venom (substance),Insect Allergy,environment,0,NaN,18
+Mold (organism),Mold Allergy,environment,0,NaN,52
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,57
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",48
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,51
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,35
+Cow's milk (substance),Milk Allergy,food,3,Finding of vomiting (finding),59
+Soya bean (substance),Soy Allergy,food,0,NaN,34
+Wheat (substance),Wheat Allergy,food,0,NaN,33
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",22
+Latex (substance),Latex Allergy,environment,0,NaN,69
+Mold (organism),Mold Allergy,environment,0,NaN,16
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,66
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",45
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,54
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,29
+Penicillin V,Drug Allergy,medication,1,"Eruption of skin (disorder), Dyspnea (finding)",74
+Soya bean (substance),Soy Allergy,food,3,"Finding of vomiting (finding), Diarrhea (finding)",17
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,25
+Wheat (substance),Wheat Allergy,food,0,NaN,23
+Mold (organism),Mold Allergy,environment,0,NaN,24
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,75
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",41
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,72
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,60
+Aspirin,Drug Allergy,medication,0,NaN,34
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,67
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",72
+Peanut (substance),Peanut Allergy,food,1,"Eruption of skin (disorder), Finding of vomiting (finding)",71
+Latex (substance),Latex Allergy,environment,0,NaN,31
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,67
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",67
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,58
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,61
+cefdinir,Drug Allergy,medication,5,Anaphylaxis (disorder),51
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),79
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Rhinoconjunctivitis (disorder)",24
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",63
+Latex (substance),Latex Allergy,environment,1,"Wheal (finding), Rhinoconjunctivitis (disorder)",69
+Mold (organism),Mold Allergy,environment,1,"Sneezing, Allergic skin rash",17
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,62
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",69
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,14
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,77
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,15
+Shellfish (substance),Fish Allergy,food,3,"Eruption of skin (disorder), Cough (finding)",56
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",64
+Animal dander (substance),Pet Allergy,environment,1,"Wheal (finding), Eruption of skin (disorder)",49
+Penicillin V,Drug Allergy,medication,1,"Eruption of skin (disorder), Wheal (finding)",61
+Peanut (substance),Peanut Allergy,food,5,"Anaphylaxis (disorder), Wheal (finding)",25
+Latex (substance),Latex Allergy,environment,1,Rhinoconjunctivitis (disorder),22
+Bee venom (substance),Insect Allergy,environment,0,NaN,39
+Mold (organism),Mold Allergy,environment,0,NaN,28
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,26
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Dyspnea (finding)",72
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,28
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,67
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),64
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Nausea (finding)",71
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,32
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,18
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",21
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,10
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Rhinoconjunctivitis (disorder)",67
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",10
+Bee venom (substance),Insect Allergy,environment,3,Eruption of skin (disorder),43
+Mold (organism),Mold Allergy,environment,0,NaN,57
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Dyspnea (finding)",10
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,25
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,70
+Sulfamethoxazole / Trimethoprim,Drug Allergy,medication,3,"Eruption of skin (disorder), Wheal (finding)",73
+Cow's milk (substance),Milk Allergy,food,1,Wheal (finding),72
+Lisinopril,Drug Allergy,medication,0,NaN,78
+Penicillin V,Drug Allergy,medication,1,"Eruption of skin (disorder), Wheal (finding)",31
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),76
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,35
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),25
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,60
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,66
+Soya bean (substance),Soy Allergy,food,3,Finding of vomiting (finding),38
+Wheat (substance),Wheat Allergy,food,0,NaN,78
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,56
+Mold (organism),Mold Allergy,environment,0,NaN,71
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,78
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,25
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",57
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,48
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,42
+Shellfish (substance),Fish Allergy,food,3,"Nausea (finding), Eruption of skin (disorder)",32
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",19
+Bee venom (substance),Insect Allergy,environment,3,Eruption of skin (disorder),78
+Mold (organism),Mold Allergy,environment,1,Nose running,43
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,61
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",19
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,28
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",67
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,10
+Penicillin V,Drug Allergy,medication,1,Dizziness (finding),78
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),13
+Soya bean (substance),Soy Allergy,food,3,Finding of vomiting (finding),25
+Mold (organism),Mold Allergy,environment,0,NaN,33
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,11
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",41
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,33
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,21
+Aspirin,Drug Allergy,medication,3,Abdominal pain (finding),59
+Wheat (substance),Wheat Allergy,food,0,NaN,44
+Latex (substance),Latex Allergy,environment,3,"Allergic angioedema (disorder), Wheal (finding)",42
+Mold (organism),Mold Allergy,environment,1,"Sneezing, Allergic skin rash",42
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,70
+Animal dander (substance),Pet Allergy,environment,1,"Wheal (finding), Eruption of skin (disorder)",60
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,52
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,21
+Penicillin V,Drug Allergy,medication,1,Wheal (finding),76
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,74
+cefdinir,Drug Allergy,medication,5,Anaphylaxis (disorder),42
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Eruption of skin (disorder)",49
+Bee venom (substance),Insect Allergy,environment,0,NaN,52
+Mold (organism),Mold Allergy,environment,1,Wheezing,53
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,38
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",22
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,21
+Soya bean (substance),Soy Allergy,food,3,"Finding of vomiting (finding), Diarrhea (finding)",55
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),11
+Peanut (substance),Peanut Allergy,food,3,"Allergic angioedema (disorder), Dyspnea (finding)",44
+Wheat (substance),Wheat Allergy,food,0,NaN,17
+Mold (organism),Mold Allergy,environment,1,"Sneezing, Allergic skin rash",35
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",43
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,16
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,77
+Wheat (substance),Wheat Allergy,food,0,NaN,67
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Eruption of skin (disorder)",38
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Nausea (finding)",45
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),30
+Bee venom (substance),Insect Allergy,environment,0,NaN,45
+Mold (organism),Mold Allergy,environment,1,"Wheezing, Allergic skin rash",19
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",33
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,73
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,58
+Latex (substance),Latex Allergy,environment,0,NaN,45
+Bee venom (substance),Insect Allergy,environment,0,NaN,33
+Mold (organism),Mold Allergy,environment,0,NaN,32
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,71
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",46
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,21
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,64
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),22
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),32
+Mold (organism),Mold Allergy,environment,1,"Allergic skin rash, Nose running",39
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,26
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",71
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,22
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,68
+Cow's milk (substance),Milk Allergy,food,3,"Eruption of skin (disorder), Wheal (finding)",28
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Eruption of skin (disorder)",58
+Latex (substance),Latex Allergy,environment,0,NaN,21
+Mold (organism),Mold Allergy,environment,0,NaN,70
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,28
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",18
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,80
+Aspirin,Drug Allergy,medication,0,NaN,37
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,61
+Wheat (substance),Wheat Allergy,food,0,NaN,25
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",78
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",21
+Penicillin V,Drug Allergy,medication,3,"Cough (finding), Allergic angioedema (disorder)",34
+Soya bean (substance),Soy Allergy,food,0,NaN,61
+Peanut (substance),Peanut Allergy,food,5,"Anaphylaxis (disorder), Wheal (finding)",62
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,32
+Bee venom (substance),Insect Allergy,environment,3,Eruption of skin (disorder),25
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,66
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,48
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",62
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,51
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,67
+Wheat (substance),Wheat Allergy,food,0,NaN,48
+Mold (organism),Mold Allergy,environment,0,NaN,23
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,14
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",44
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,27
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,18
+Sulfamethoxazole / Trimethoprim,Drug Allergy,medication,0,NaN,67
+Fish (substance),Fish Allergy,food,1,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",26
+Bee venom (substance),Insect Allergy,environment,0,NaN,16
+Mold (organism),Mold Allergy,environment,1,Nose running,55
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,22
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",49
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,51
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,18
+cefdinir,Drug Allergy,medication,5,Anaphylaxis (disorder),59
+Aspirin,Drug Allergy,medication,3,Abdominal pain (finding),36
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",75
+Aspirin,Drug Allergy,medication,0,NaN,14
+Wheat (substance),Wheat Allergy,food,0,NaN,38
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),46
+Mold (organism),Mold Allergy,environment,0,NaN,47
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,17
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",74
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,26
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",80
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Finding of vomiting (finding)",54
+cefdinir,Drug Allergy,medication,5,Anaphylaxis (disorder),13
+Mold (organism),Mold Allergy,environment,1,"Sneezing, Wheezing",45
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",79
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Eruption of skin (disorder)",40
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Dyspnea (finding)",28
+Wheat (substance),Wheat Allergy,food,0,NaN,70
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,63
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,48
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",28
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,48
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,76
+Bee venom (substance),Insect Allergy,environment,0,NaN,54
+Mold (organism),Mold Allergy,environment,1,Sneezing,22
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,67
+Animal dander (substance),Pet Allergy,environment,1,Eruption of skin (disorder),29
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,70
+Aspirin,Drug Allergy,medication,3,Abdominal pain (finding),48
+Cow's milk (substance),Milk Allergy,food,3,"Finding of vomiting (finding), Wheal (finding)",10
+Wheat (substance),Wheat Allergy,food,0,NaN,12
+Shellfish (substance),Fish Allergy,food,3,"Eruption of skin (disorder), Dyspnea (finding)",71
+Fish (substance),Fish Allergy,food,1,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",72
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",34
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Wheezing (finding)",65
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),42
+Penicillin V,Drug Allergy,medication,1,"Eruption of skin (disorder), Wheal (finding)",47
+Fish (substance),Fish Allergy,food,1,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",15
+Mold (organism),Mold Allergy,environment,0,NaN,67
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Nausea (finding)",53
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,54
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",41
+Wheat (substance),Wheat Allergy,food,0,NaN,54
+Lisinopril,Drug Allergy,medication,0,NaN,70
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Eruption of skin (disorder)",56
+Lisinopril,Drug Allergy,medication,3,Cough (finding),30
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Rhinoconjunctivitis (disorder)",45
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),28
+Mold (organism),Mold Allergy,environment,1,Nose running,29
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,66
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",27
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,56
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,58
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Dyspnea (finding)",23
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,24
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",40
+Mold (organism),Mold Allergy,environment,0,NaN,10
+Wheat (substance),Wheat Allergy,food,0,NaN,63
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,12
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),25
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),66
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,21
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,25
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),33
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,37
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,17
+Lisinopril,Drug Allergy,medication,0,NaN,45
+Aspirin,Drug Allergy,medication,0,NaN,17
+Penicillin V,Drug Allergy,medication,1,Wheal (finding),67
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Rhinoconjunctivitis (disorder)",69
+Aspirin,Drug Allergy,medication,0,NaN,59
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",37
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),50
+Sulfamethoxazole / Trimethoprim,Drug Allergy,medication,3,"Eruption of skin (disorder), Wheal (finding)",73
+Aspirin,Drug Allergy,medication,3,Abdominal pain (finding),36
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Eruption of skin (disorder)",72
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,26
+Latex (substance),Latex Allergy,environment,0,NaN,42
+Bee venom (substance),Insect Allergy,environment,0,NaN,38
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,22
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,55
+Animal dander (substance),Pet Allergy,environment,1,Eruption of skin (disorder),44
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,15
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,78
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),56
+Fish (substance),Fish Allergy,food,1,"Finding of vomiting (finding), Eruption of skin (disorder)",34
+Bee venom (substance),Insect Allergy,environment,0,NaN,75
+Mold (organism),Mold Allergy,environment,0,NaN,19
+Animal dander (substance),Pet Allergy,environment,1,Wheal (finding),65
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,39
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,14
+Eggs (edible) (substance),Egg Allergy,food,5,"Anaphylaxis (disorder), Wheal (finding)",42
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",74
+Fish (substance),Fish Allergy,food,1,Eruption of skin (disorder),27
+Animal dander (substance),Pet Allergy,environment,0,NaN,58
+Bee venom (substance),Insect Allergy,environment,3,Eruption of skin (disorder),20
+Mold (organism),Mold Allergy,environment,0,NaN,35
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,72
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",68
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,36
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Eruption of skin (disorder)",58
+Aspirin,Drug Allergy,medication,0,NaN,42
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",10
+Aspirin,Drug Allergy,medication,0,NaN,30
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",64
+Bee venom (substance),Insect Allergy,environment,3,Eruption of skin (disorder),15
+Mold (organism),Mold Allergy,environment,0,NaN,78
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,14
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",12
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,62
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,32
+Cow's milk (substance),Milk Allergy,food,3,"Finding of vomiting (finding), Wheal (finding)",62
+Wheat (substance),Wheat Allergy,food,0,NaN,46
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",26
+Bee venom (substance),Insect Allergy,environment,0,NaN,10
+Lisinopril,Drug Allergy,medication,0,NaN,60
+Tree nut (substance),Nut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",54
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",13
+Sulfamethoxazole / Trimethoprim,Drug Allergy,medication,3,Eruption of skin (disorder),71
+Fish (substance),Fish Allergy,food,1,"Finding of vomiting (finding), Rhinoconjunctivitis (disorder)",74
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,41
+Wheat (substance),Wheat Allergy,food,0,NaN,43
+Penicillin V,Drug Allergy,medication,0,NaN,48
+Eggs (edible) (substance),Egg Allergy,food,5,Anaphylaxis (disorder),35
+Mold (organism),Mold Allergy,environment,0,NaN,43
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),63
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,12
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",59
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Eruption of skin (disorder)",21
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Wheal (finding)",74
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,63
+Shellfish (substance),Fish Allergy,food,3,"Nausea (finding), Eruption of skin (disorder)",14
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,66
+Bee venom (substance),Insect Allergy,environment,0,NaN,26
+Mold (organism),Mold Allergy,environment,1,Nose running,56
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,32
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",23
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,75
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,60
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,47
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Eruption of skin (disorder)",73
+Mold (organism),Mold Allergy,environment,1,Sneezing,47
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,59
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",39
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,60
+Aspirin,Drug Allergy,medication,0,NaN,72
+Cow's milk (substance),Milk Allergy,food,1,Wheal (finding),61
+Soya bean (substance),Soy Allergy,food,3,"Finding of vomiting (finding), Diarrhea (finding)",47
+Fish (substance),Fish Allergy,food,1,Rhinoconjunctivitis (disorder),39
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Nausea (finding)",60
+Mold (organism),Mold Allergy,environment,0,NaN,14
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,38
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",13
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,19
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",65
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",26
+Peanut (substance),Peanut Allergy,food,3,"Allergic angioedema (disorder), Eruption of skin (disorder)",26
+Animal dander (substance),Pet Allergy,environment,1,Wheal (finding),78
+Aspirin,Drug Allergy,medication,0,NaN,43
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),15
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,62
+Sulfamethoxazole / Trimethoprim,Drug Allergy,medication,3,Eruption of skin (disorder),75
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Cough (finding)",52
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,32
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,64
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",25
+Wheat (substance),Wheat Allergy,food,0,NaN,17
+Shellfish (substance),Fish Allergy,food,3,"Eruption of skin (disorder), Diarrhea (finding)",13
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",13
+Peanut (substance),Peanut Allergy,food,1,Dyspnea (finding),65
+Bee venom (substance),Insect Allergy,environment,0,NaN,34
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,76
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,76
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",36
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,41
+Soya bean (substance),Soy Allergy,food,1,Diarrhea (finding),59
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Wheal (finding)",70
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",60
+Tree nut (substance),Nut Allergy,food,3,"Wheal (finding), Dyspnea (finding)",28
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,30
+Animal dander (substance),Pet Allergy,environment,1,Wheal (finding),14
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,51
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Finding of vomiting (finding)",70
+Peanut (substance),Peanut Allergy,food,1,"Dyspnea (finding), Finding of vomiting (finding)",31
+Latex (substance),Latex Allergy,environment,3,"Allergic angioedema (disorder), Wheal (finding)",30
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,79
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,10
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",14
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,21
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,55
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),43
+Shellfish (substance),Fish Allergy,food,3,"Nausea (finding), Eruption of skin (disorder)",58
+Mold (organism),Mold Allergy,environment,0,NaN,54
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,36
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Dyspnea (finding)",35
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,56
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,65
+Aspirin,Drug Allergy,medication,0,NaN,72
+Fish (substance),Fish Allergy,food,1,"Finding of vomiting (finding), Rhinoconjunctivitis (disorder)",57
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",70
+Latex (substance),Latex Allergy,environment,3,"Allergic angioedema (disorder), Wheal (finding)",35
+Mold (organism),Mold Allergy,environment,0,NaN,45
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,10
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Dyspnea (finding)",17
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,61
+Penicillin V,Drug Allergy,medication,0,NaN,56
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Eruption of skin (disorder)",65
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",23
+Mold (organism),Mold Allergy,environment,0,NaN,37
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",11
+Soya bean (substance),Soy Allergy,food,1,Diarrhea (finding),35
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),23
+Tree nut (substance),Nut Allergy,food,3,"Wheal (finding), Dyspnea (finding)",68
+Latex (substance),Latex Allergy,environment,0,NaN,65
+Mold (organism),Mold Allergy,environment,1,"Sneezing, Allergic skin rash",16
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,12
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),32
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,27
+Aspirin,Drug Allergy,medication,3,Abdominal pain (finding),47
+Penicillin V,Drug Allergy,medication,1,"Eruption of skin (disorder), Allergic angioedema (disorder)",24
+Wheat (substance),Wheat Allergy,food,0,NaN,73
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",37
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Allergic angioedema (disorder)",48
+Penicillin V,Drug Allergy,medication,3,"Rhinoconjunctivitis (disorder), Allergic angioedema (disorder)",66
+Peanut (substance),Peanut Allergy,food,3,Wheal (finding),26
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Eruption of skin (disorder)",53
+Latex (substance),Latex Allergy,environment,3,"Itching (finding), Dyspnea (finding)",34
+Mold (organism),Mold Allergy,environment,1,Nose running,26
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,22
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),34
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,77
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Eruption of skin (disorder)",19
+Tree nut (substance),Nut Allergy,food,3,"Wheal (finding), Dyspnea (finding)",76
+Bee venom (substance),Insect Allergy,environment,0,NaN,27
+Mold (organism),Mold Allergy,environment,0,NaN,43
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,17
+Animal dander (substance),Pet Allergy,environment,1,Eruption of skin (disorder),49
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,51
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,50
+Eggs (edible) (substance),Egg Allergy,food,3,"Eruption of skin (disorder), Wheal (finding)",15
+Peanut (substance),Peanut Allergy,food,3,"Wheal (finding), Allergic angioedema (disorder)",61
+Soya bean (substance),Soy Allergy,food,0,NaN,35
+Latex (substance),Latex Allergy,environment,1,"Wheal (finding), Rhinoconjunctivitis (disorder)",73
+Bee venom (substance),Insect Allergy,environment,0,NaN,68
+Mold (organism),Mold Allergy,environment,1,Nose running,65
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Eruption of skin (disorder)",68
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,79
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,42
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),62
+Wheat (substance),Wheat Allergy,food,0,NaN,31
+Mold (organism),Mold Allergy,environment,0,NaN,30
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,79
+Animal dander (substance),Pet Allergy,environment,3,Rhinoconjunctivitis (disorder),79
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,13
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,71
+Cow's milk (substance),Milk Allergy,food,0,NaN,71
+Fish (substance),Fish Allergy,food,1,Eruption of skin (disorder),33
+Aspirin,Drug Allergy,medication,0,NaN,64
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Nausea (finding)",18
+Latex (substance),Latex Allergy,environment,0,NaN,12
+Aspirin,Drug Allergy,medication,0,NaN,40
+Mold (organism),Mold Allergy,environment,0,NaN,49
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Finding of vomiting (finding)",45
+Latex (substance),Latex Allergy,environment,3,"Itching (finding), Wheal (finding)",33
+Bee venom (substance),Insect Allergy,environment,3,Eruption of skin (disorder),15
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,75
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,13
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",15
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,60
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,71
+Cow's milk (substance),Milk Allergy,food,1,Wheal (finding),66
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Rhinoconjunctivitis (disorder)",75
+Mold (organism),Mold Allergy,environment,1,Sneezing,17
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,35
+Animal dander (substance),Pet Allergy,environment,1,Eruption of skin (disorder),60
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,54
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,53
+Lisinopril,Drug Allergy,medication,3,Cough (finding),14
+Penicillin V,Drug Allergy,medication,3,"Cough (finding), Allergic angioedema (disorder)",79
+Cow's milk (substance),Milk Allergy,food,1,Wheal (finding),35
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),77
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",28
+Mold (organism),Mold Allergy,environment,0,NaN,29
+Aspirin,Drug Allergy,medication,0,NaN,21
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),56
+Mold (organism),Mold Allergy,environment,0,NaN,10
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,23
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",73
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,47
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,46
+Lisinopril,Drug Allergy,medication,0,NaN,20
+Cow's milk (substance),Milk Allergy,food,1,"Diarrhea (finding), Wheal (finding)",12
+Mold (organism),Mold Allergy,environment,1,Allergic skin rash,42
+House dust mite (organism),Dust Mite Allergy,environment,0,NaN,15
+Animal dander (substance),Pet Allergy,environment,3,"Cough (finding), Rhinoconjunctivitis (disorder)",59
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,19
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,14
+Aspirin,Drug Allergy,medication,3,Abdominal pain (finding),32
+Soya bean (substance),Soy Allergy,food,0,NaN,19
+Eggs (edible) (substance),Egg Allergy,food,0,NaN,53
+Latex (substance),Latex Allergy,environment,1,Wheal (finding),11
+Mold (organism),Mold Allergy,environment,0,NaN,22
+Animal dander (substance),Pet Allergy,environment,3,"Rhinoconjunctivitis (disorder), Wheal (finding)",49
+Grass pollen (substance),Grass Pollen Allergy,environment,0,NaN,11
+Tree pollen (substance),Tree Pollen Allergy,environment,0,NaN,74
+Wheat (substance),Wheat Allergy,food,0,NaN,72
+Shellfish (substance),Fish Allergy,food,5,"Anaphylaxis (disorder), Diarrhea (finding)",26
+Fish (substance),Fish Allergy,food,3,"Dyspnea (finding), Finding of vomiting (finding)",18
+Tree nut (substance),Nut Allergy,food,5,"Anaphylaxis (disorder), Cough (finding)",24
+Aspirin,Drug Allergy,medication,3,Wheal (finding),33
+Eggs (edible) (substance),Egg Allergy,food,3,Wheal (finding),47
+Aspirin,Drug Allergy,medication,0,NaN,44
+Shellfish (substance),Fish Allergy,food,3,"Allergic angioedema (disorder), Nausea (finding)",58
